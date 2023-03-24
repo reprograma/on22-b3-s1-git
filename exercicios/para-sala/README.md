@@ -1,10 +1,18 @@
 # Exercício de Sala 🏫  
 
-## Nome do Exercicio
+## Exercício no GitBash
 
-- Explicação do exercício: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci.
-Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. 
+- Vamos criar uma pasa e um arquivo utilizando o terminal
+
+Passo a Passo:
+
+* Abra o Git Bahs
+* Identifique o usuário
+* Confirme qual pasta que você está
+* Volte uma pasta
+* Crie uma pasta chamada **tempo**
+* Entre na pasta
+* Crie um arquivo chamado **temporario.js**
 ---
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
