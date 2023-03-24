@@ -24,25 +24,25 @@ O que veremos na aula de hoje?
 
 ## Conteúdo
 ### Conceitos básicos
-1. [Programação](#topico1)
-2. [Back, Front, Fullstack e Mobile](#topico2)
-3. [Client-side e Server-side]()
-4. [Algoritmo e Pseudocódigo]()
+1. [Programação](#programa%C3%A7%C3%A3o)
+2. [Back, Front, Fullstack e Mobile](#back-front-fullstack-e-mobile)
+3. [Client-side e Server-side](#client-side-e-server-side)
+4. [Algoritmo e Pseudocódigo](#algoritmo-e-pseudoc%C3%B3digo)
 
 
 ### Terminal e versionamento de código
-1. [Terminal](#topico1)
-2. [Versionamento de código](#topico2)
+1. [Terminal](#terminal)
+2. [Versionamento de código](#versionamento-de-c%C3%B3digo)
 
 ### Git & GitHub
-1. [Git](#topico4)
-  * [Gitflow]()
-  * [Comandos]()
+1. [Git](#git--github-1)
+  * [Gitflow](#git)
+  * [Comandos](#comandos)
 
-2. [GitHub]()
-  * [Comandos]()
-  * [Commits semânticos]()
-  * [Markdown]()
+2. [GitHub](#github)
+  * [Comandos](#comandos-1)
+  * [Commits semânticos](#commits-sem%C3%A2nticos)
+  * [Markdown](#markdown)
 
 # Conceitos básicos 
 
@@ -52,12 +52,16 @@ O que veremos na aula de hoje?
  ### **O que é programação?**
 
   ```
- Programação é o processo de escrita, teste e manutenção de um programa de computador. O programa é escrito em uma linguagem de programação, embora seja possível, com alguma dificuldade, o escrever diretamente em linguagem de máquina. Diferentes partes de um programa podem ser escritas em diferentes linguagens.
+ Programação é o processo de escrita, teste e manutenção de um programa 
+ de computador. O programa é escrito em uma linguagem de programação, 
+ embora seja possível, com alguma dificuldade, o escrever diretamente 
+ em linguagem de máquina. Diferentes partes de um programa podem ser 
+ escritas em diferentes linguagens.
   ```
 
   Para começar, vamos diferenciar duas coisas: **hardware** e **software**.
-  > *Hardware*: São os elementos **FÍSICOS** do computador, como o `monitor`, `teclado`, `processador`, etc
-  > *Software*: É o que fala para as peças físicas **O QUE FAZER**, como os `editores de foto`, `sistemas operacionais`, etc 
+  - *Hardware*: São os elementos **FÍSICOS** do computador, como o `monitor`, `teclado`, `processador`, etc
+  - *Software*: É o que fala para as peças físicas **O QUE FAZER**, como os `editores de foto`, `sistemas operacionais`, etc 
 
   Muito importante lembrar que, apesar de não parecer, o computador é apenas uma pedra que damos choquinhos e faz contas muito rápido por caisa disso. Todo e qualquer processo no computador foi criado um conjunto de regras lógicas e sequenciadas para que, ao executar entreguem o resultado desejado de forma que a nova informação adquirida seja utilizável pela usuária.
 
@@ -77,7 +81,7 @@ O que veremos na aula de hoje?
   Para isso, é muito importante estudarmos `lógica de programação`, `código limpo (clean code)` e usar outras formas de deixar nosso código fácil de ler por outras `devs` para que a manutenção (pois o código *VAI* quebrar e é importante sabermos lidar), aprimoramento do código e implementação de novas linhas para novos processos seja possível.
 
 
-  ### **Back, Front, Fullstack e Mobile**
+  ## Back, Front, Fullstack e Mobile
 
   Em qualquer programa que use teremos, geralmente, dois setores em que `devs` fazem parte: Back-end e Front-end.
 
@@ -91,7 +95,7 @@ O que veremos na aula de hoje?
   E por último, `Mobile` é a `dev` que criará **aplicativos** (também chamados de *apps*). Hoje em dia temos diversos sistemas operacionais (também chamaods de *OS*), como Android e iOS sendo os mais conhecidos e amplamente usados no mercado.
 
 
-  ### **Client-side e Server-side**
+  ## Client-side e Server-side
 
   O cliente é sempre quem inicia as comunicações com o servidor. O cliente mais comum é um `navegador`. Ao acessar um site pelo navegador, uma requisição é feita, pela internet, para o servidor onde está o site. O papel desse servidor é devolver uma resposta para o cliente (nesse caso, o navegador). Normalmente, um servidor **NÃO** envia nenhum dado para cliente sem que haja um requisição antes.
 
@@ -252,6 +256,12 @@ git diff                        | mostra no terminal a diferença entre os arqui
   - O Conventional Commit encoraja a se realizar mais commits de tipos específicos, por exemplo correções
   - A flexibilidade do Conventional Commits permite que sua equipe crie seus próprios tipos e altere ao longo do tempo
 
+  ### **Markdown**
+  `Markdown` é uma linguagem voltada para *FORMATAÇÃO* de textos. Por exemplo, com ela você não precisa apertar um botão para deixar o texto em *itálico* ou **negrito**.
+
+  Essa linguagem permite formatar e escrever textos usando códigos simples, que não atrapalham a leitura. O maior objetivo do `Markdown` é tornar o texto o mais legível possível. A ideia é que um documento formatado pelo `Markdown` seja publicável como está, como texto simples, sem parecer que foi marcado com *`tags`* ou instruções de formatação.
+
+  Apesar da sintaxe do `Markdown` ter sido influenciada pelas formatações `HTML` existentes, a maior inspiração é o formato de um e-mail simples.
 
 ***
 ### Exercícios 
@@ -261,10 +271,7 @@ git diff                        | mostra no terminal a diferença entre os arqui
 ### Material da aula 
 
 ### Links Úteis
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
+- [Sintaxe de Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 <p align="center">
 <a href="https://github.com/SkyAlarcon"><img src="assets/sky-do-ceu.png"></a>
