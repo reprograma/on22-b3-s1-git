@@ -154,14 +154,18 @@ O que veremos na aula de hoje?
 
   Para fazer o download, basta clicar na imagem abaixo:
 
+  <h1 align="center">
   <a href="https://git-scm.com/downloads"><img src="assets/Git-Icon-1788C.png"></a>
+  </h1>
 
   ### **Gitflow**
   `Gitflow` é uma forma alternativa de fazer seu versionamento de código. Ele terá uma ramificação primária. Outras ramificações são criadas para que o código seja aprimorado com novas funcionalidades, otimizações ou outras coisas. Após verificar que o novo desenvolvimento está funcionando sem problemas, é feito o *`merge`* (traduzindo literalmente para `fusão`) do código novo com as linhas modificadas ao código já existente.
 
   Cada recurso novo criará a própria *`branch`* (ramificação), implementará o novo código nela e, ao final de tudo, pode ser enviada para a `branch` principal para que ocorra o `merge`.
 
+  <h1 align="center">
   <img src="assets/gitflow.jpg">
+  </h1>
 
   Na imagem podemos observar como é feito o desenvolvimento do programa. Existe a `branch` principal (em azul claro) e `branches` secundárias. Toda vez que é lançada uma nova versão de um programa, significa que houve um `merge` de uma ou mais `branches` secundárias à `branch` principal.
 
@@ -203,7 +207,9 @@ O que veremos na aula de hoje?
 
   Agora chegou a hora de criarmos a nossa conta! Clique na imagem para acessar o [Github](https://github.com/)
 
+  <h1 align="center">
   <a href="https://github.com/"><img src="assets/github.png"></a>
+  <h1>
 
   ### **Comandos**
   Vamos ver alguns comandos para utilizar o [Github](https://github.com/) a partir do `Git`
@@ -260,7 +266,7 @@ git diff                        | mostra no terminal a diferença entre os arqui
   - Comunicar a natureza das mudanças para colegas de equipe, o público e outras partes interessadas
   - Facilitar a contribuição de outras pessoas em seus projetos, permitindo que eles explorem um histórico de commits mais estruturado
   - O Conventional Commit encoraja a se realizar mais commits de tipos específicos, por exemplo correções
-  - A flexibilidade do Conventional Commits permite que sua equipe crie seus próprios tipos e altere ao longo do tempo
+  - A flexibilidade do `Conventional Commits` permite que sua equipe crie seus próprios tipos e altere ao longo do tempo
 
   ### **Markdown**
   `Markdown` é uma linguagem voltada para *FORMATAÇÃO* de textos. Por exemplo, com ela você não precisa apertar um botão para deixar o texto em *itálico* ou **negrito**.
@@ -274,16 +280,20 @@ git diff                        | mostra no terminal a diferença entre os arqui
 * [Exercicio para sala](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
 * [Exercicio para casa](https://github.com/mflilian/repo-example/tree/main/exercicios/para-casa)
 
-### Material da aula 
+### [Material da aula](https://www.canva.com/design/DAFeHwf3MxE/bhR9Yv9tQm1c3rIX4pkXng/view?utm_content=DAFeHwf3MxE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Links Úteis
 
-- [Algoritmo e Lógica de Programação](https://blog.casadodesenvolvedor.com.br/logica-de-programacao/#:~:text=Enquanto%20a%20l%C3%B3gica%20de%20programa%C3%A7%C3%A3o,ou%20para%20atingir%20determinado%20objetivo.)
+- [Algoritmo e Lógica de Programação](https://dicasdeprogramacao.com.br/o-que-e-algoritmo/)
 - [Git](https://git-scm.com/)
 - [GitHub](https://github.com/)
+- [Commit semânico](https://blog.geekhunter.com.br/o-que-e-commit-e-como-usar-commits-semanticos/)
+- [Padrões de commit semântico](https://github.com/iuricode/padroes-de-commits)
+
 - [Sintaxe de Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 - [Código limpo](https://balta.io/blog/clean-code#:~:text=Clean%20Code%20ou%20c%C3%B3digo%20limpo,e%20manutenabilidade%20do%20seu%20c%C3%B3digo.) (leitura para mais tarde no curso)
+
 
 
 <h1 align="center">
