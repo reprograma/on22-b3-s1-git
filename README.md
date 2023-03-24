@@ -44,9 +44,9 @@ O que veremos na aula de hoje?
   * [Commits semânticos](#commits-sem%C3%A2nticos)
   * [Markdown](#markdown)
 
-### [Exercícios](#exerc%C3%ADcios)
+### [Exercícios](#exerc%C3%ADcios-1)
 
-### [Links úteis](t#links-%C3%BAteis)
+### [Links úteis](#links-%C3%BAteis-1)
 
 # Conceitos básicos 
 
@@ -277,8 +277,8 @@ git diff                        | mostra no terminal a diferença entre os arqui
 
 ***
 ### Exercícios 
-* [Exercicio para sala](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
-* [Exercicio para casa](https://github.com/mflilian/repo-example/tree/main/exercicios/para-casa)
+* [Exercicio para sala](https://github.com/reprograma/on22-b3-s1-git/tree/main/exercicios/para-sala)
+* [Exercicio para casa](https://github.com/reprograma/on22-b3-s1-git/tree/main/exercicios/para-casa)
 
 ### [Material da aula](https://www.canva.com/design/DAFeHwf3MxE/bhR9Yv9tQm1c3rIX4pkXng/view?utm_content=DAFeHwf3MxE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
