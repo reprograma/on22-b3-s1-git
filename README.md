@@ -4,7 +4,7 @@
 
 # Conceitos básicos, Git, Github e versionamento de código
 
-Turma Online 22 - B3  | Back-end | Semana 1 | 2023 | Professora Sky Alarcón ☁
+Turma Online 22 - B3  | Back-end | Semana 1 | 2023 | Professora [Sky Alarcón ☁](https://www.instagram.com/_skydoceu/?hl=pt-br)
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
@@ -44,6 +44,10 @@ O que veremos na aula de hoje?
   * [Commits semânticos](#commits-sem%C3%A2nticos)
   * [Markdown](#markdown)
 
+### [Exercícios](#exerc%C3%ADcios)
+
+### [Links úteis](t#links-%C3%BAteis)
+
 # Conceitos básicos 
 
 ## Programação
@@ -60,8 +64,9 @@ O que veremos na aula de hoje?
   ```
 
   Para começar, vamos diferenciar duas coisas: **hardware** e **software**.
-  - *Hardware*: São os elementos **FÍSICOS** do computador, como o `monitor`, `teclado`, `processador`, etc
-  - *Software*: É o que fala para as peças físicas **O QUE FAZER**, como os `editores de foto`, `sistemas operacionais`, etc 
+  > *Hardware*: São os elementos **FÍSICOS** do computador, como o `monitor`, `teclado`, `processador`, etc
+  
+  > *Software*: É o que fala para as peças físicas **O QUE FAZER**, como os `editores de foto`, `sistemas operacionais`, etc 
 
   Muito importante lembrar que, apesar de não parecer, o computador é apenas uma pedra que damos choquinhos e faz contas muito rápido por caisa disso. Todo e qualquer processo no computador foi criado um conjunto de regras lógicas e sequenciadas para que, ao executar entreguem o resultado desejado de forma que a nova informação adquirida seja utilizável pela usuária.
 
@@ -86,6 +91,7 @@ O que veremos na aula de hoje?
   Em qualquer programa que use teremos, geralmente, dois setores em que `devs` fazem parte: Back-end e Front-end.
 
   > Back-end: Tudo que está por trás das telas, processos que usuárias não terá acesso direito e não vai interagir *diretamente*
+
   > Front-end: Corresponde a tudo que o usuário ve e/ou interage com, como menus, imagens, etc.
 
   Falta explicar o `Fullstack` e `Mobile`. Esses dois termos são mais simples do que parecem.
@@ -271,13 +277,20 @@ git diff                        | mostra no terminal a diferença entre os arqui
 ### Material da aula 
 
 ### Links Úteis
+
+- [Algoritmo e Lógica de Programação](https://blog.casadodesenvolvedor.com.br/logica-de-programacao/#:~:text=Enquanto%20a%20l%C3%B3gica%20de%20programa%C3%A7%C3%A3o,ou%20para%20atingir%20determinado%20objetivo.)
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com/)
 - [Sintaxe de Markdown](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-<p align="center">
-<a href="https://github.com/SkyAlarcon"><img src="assets/sky-do-ceu.png"></a>
-</p>
+- [Código limpo](https://balta.io/blog/clean-code#:~:text=Clean%20Code%20ou%20c%C3%B3digo%20limpo,e%20manutenabilidade%20do%20seu%20c%C3%B3digo.) (leitura para mais tarde no curso)
 
-<p align="center">
+
+<h1 align="center">
+<a href="https://www.instagram.com/_skydoceu/?hl=pt-br"><img src="assets/sky-do-ceu.png"></a>
+</h1>
+
+<h2 align="center">
 Desenvolvido com :purple_heart:  
-</p>
+</h2>
 
