@@ -6,6 +6,7 @@
 
 Passo a Passo:
 
+* Abra a pasta do repositório
 * Abra o Git Bash
 * Identifique o usuário
 * Confirme qual pasta que você está
