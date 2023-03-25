@@ -2,7 +2,7 @@
 
 ## Exercício no GitBash
 
-- Vamos criar uma pasa e um arquivo utilizando o terminal
+- Vamos criar uma pasta e um arquivo utilizando o terminal
 
 Passo a Passo:
 
