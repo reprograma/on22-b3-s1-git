@@ -8,7 +8,7 @@ Passo a Passo:
 
 * Abra o Git Bahs
 * Identifique o usuário
-* Confirme qual pasta que você está
+* Confirme qual pastagi que você está
 * Volte uma pasta
 * Crie uma pasta chamada **tempo**
 * Entre na pasta
