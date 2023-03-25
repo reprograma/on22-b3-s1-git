@@ -176,8 +176,8 @@ O que veremos na aula de hoje?
 
   Comando                                              | Descrição
   -----------------------------------------------------|-------------------------------------------------------
-  git config user.name "Nome da Reprogramer"           | configura o seu nome
-  git config user.email "emailDaReprogramer@gmail.com" | configura o seu email
+  git config user.name "Username da Reprogramer"       | configura o seu username no github
+  git config user.email "emailDaReprogramer@gmail.com" | configura o seu email utilizado para logar no github
   git config --list                                    |  mostra todas as propriedades de configuração do Git
   ls                                                   | listar (ele traz uma lista de tudo o que está naquela pasta - documentos, outras pastas, etc)
   mkdir nome-da-pasta                                  | cria uma pasta
