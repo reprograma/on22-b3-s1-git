@@ -1,4 +1,5 @@
-## Código Limpo  💻
+ {c:purple}Código Limpo{/c} 💻
+
 
 
 Programar um código limpo é algo cada vez mais procurado pelas empresas de tecnologia.
