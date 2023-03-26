@@ -1,6 +1,6 @@
-![This is an image](https://br.pinterest.com/pin/728527677210334183/)
+!(https://br.pinterest.com/pin/728527677210334183/)
 
-## Código limpo
+## Código Limpo
 
 Programar um código limpo é algo cada vez mais procurado pelas empresas de tecnologia.
 
