@@ -33,3 +33,17 @@ Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo cert
 - [ ] Commitei a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
 - [ ] Pushei os commits na minha branch (`git push origin nome-da-branch`)
 - [ ] Criei um Pull Request seguindo as orientaçoes que estao nesse [documento](https://github.com/mflilian/repo-example/blob/main/exercicios/para-casa/instrucoes-pull-request.md).
+
+
+
+
+### ATIVIDADE CASA
+
+
+## O que é, como funciona e para que serve API 
+
+*Application Programming* Interface ou apenas **API**, é um conjunto de normas que possibilita a comunicação entre plataformas por meio de uma série de padrões e protocolos. 
+
+Por meio das **API** são criados sites, softwares e aplicativos capazes de se comunicar com outras plataformas, como por exemplo, permitir que o aplicativo tenha acesso à câmera do usuário, ao gps, como o Google Maps e ifood. 
+
+! (https://raw.githubusercontent.com/Codecademy/articles/0b631b51723fbb3cc652ef5f009082aa71916e63/images/rest_api.sv
