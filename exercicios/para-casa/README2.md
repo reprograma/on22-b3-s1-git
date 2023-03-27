@@ -1,12 +1,13 @@
 # Exercício de Casa 🏠 
 
-## Resuminho da 1° aula
+## Resuminho da 1° aula 💜
+
 
 Aprendemos alguns conceitos básicos, como as diferenças entre Front End, Back End e FullStack Developer.
 Aprendemos sobre algoritmo, pseudocódigo, client side e server side, mas principalmente sobre git e github, que é a plataforma onde acredito que será a que mais utilizaremos durante o período do curso.
 
 
-## ChatGPT para iniciante em programação é algo bom ou ruim?
+## ChatGPT para iniciante em programação é algo bom ou ruim? 🤔
 
 ChatGPT é um bot AI que responde o usuário de acordo com prompts, ele responde o usuário de forma instantânea e possui uma vasta biblioteca, podendo fazer **quase** tudo que o usuário pedir, desde uma prompt pedindo uma receita culinária, fatos aleatórios e até roteiros prontos.
 O uso do ChatGPT está cada vez mais comum, e embora ele possa ser bem prático para algumas tarefas mais "chatas", ele apresenta alguns problemas:
