@@ -6,7 +6,7 @@
 
 Passo a Passo:
 
-* Abra o Git Bahs
+* Abra o Git Bash
 * Identifique o usuário
 * Confirme qual pasta que você está
 * Volte uma pasta
