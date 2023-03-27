@@ -1,5 +1,5 @@
 # Exercício de Casa 🏠 
-
+ 
 ## Nome do Exercicio
 
 - Vamos criar um arquivo **README.md** para falar sobre a aula de hoje e fazer um *pequeno* resumo de um texto da sua escolha (dentre os textos da coletânea criada)
