@@ -1,0 +1,2 @@
+# Na nossa primeira aula aprendemos a usar o Git e GitHub, Vs code, alguns comando como: CD ..,touch, code,clone,commit, foi uma aula muito instrutiva, gostei muito!
+**Clean Code** ou Código Limpo é a filosofia de utilizar técnicas simples que melhoram a escrita e a leitura de um código,muito utilizado nas empresas que estão sempre em busca de eficiência.
