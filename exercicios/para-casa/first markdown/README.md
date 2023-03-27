@@ -1,6 +1,6 @@
 # **O que é Clean Code?**
 
-A prática do Clean Code, abordada por Robert C. Martin em seu livro *"Clean Code: A Handbook of Agile Software Craftsmanship"*, é uma abordagem importante a ser usada em qualquer projeto, porém pode ser vista como essencial quando usada em trabalhos colaborativos como projetos open source ou até mesmo projetos compartilhados em uma empresa. O objetivo do Clean Code nada mais é do que fazer o código ser o mais simples de entender dentro do possível, mantendo boas práticas de nomeação e váriáveis, métodos e funções, para assim qualquer pessoa que necessitar ler o código consiga comprender a lógica de maneira facilitada.
+A prática do Clean Code, abordada por Robert C. Martin em seu livro *"Clean Code: A Handbook of Agile Software Craftsmanship"*, é uma abordagem importante a ser usada em qualquer projeto, porém pode ser vista como essencial quando usada em trabalhos colaborativos como projetos open source ou até mesmo projetos compartilhados em uma empresa. O objetivo do Clean Code nada mais é do que fazer o código ser o mais simples de entender dentro do possível, mantendo boas práticas de nomeação e variáveis, métodos e funções, para assim qualquer pessoa que necessitar ler o código consiga compreender a lógica de maneira facilitada.
 
 ## E como isso pode impactar no nosso dia a dia? 
 
