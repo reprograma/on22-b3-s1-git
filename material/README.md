@@ -32,7 +32,9 @@ Na aula principal da primeira semana foi feita uma intrudução às ferramentas 
 ### **O que é uma API?** 
 
 
-    APIs são conjuntos de normas e protocolos, cuja função é permitir a interação entre diferentes serviços e aplicações sem que seja necessário o intermédio de uma interface de usuário.
+    APIs são conjuntos de normas e protocolos, cuja função é permitir a interação
+    entre diferentes serviços e aplicações sem que seja necessário o intermédio
+    de uma interface de usuário.
 
 As APIs, ou *Application Programming Interfaces* facilitam o dia-a-dia dos tanto dos usuários quanto dos desenvolvedores. Ao tornarem possíveis interações diretamente entre aplicações elas permitem que os serviços utilizem os dados uns dos outros. Para os usuários isso se reflete em uma maior **facilidade na integração** de suas atividades, já para os desenvolvedores, elas tornam desnecessário o desenvolvimento de interfaces e *databases* redundantes. 
 
