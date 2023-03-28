@@ -1,7 +1,7 @@
 # Exercício de Casa 🏠 
 
 <h1  align="center">
-<img  src="assets/reprograma-fundos-claros.png"  alt="logo reprograma"  width="350">
+<img  src="../../assets/reprograma-fundos-claros.png"  alt="logo reprograma"  width="350">
 </h1>
 
 # Resumo do texto: ChatGPT para inicante em programação é bom ou ruim?
