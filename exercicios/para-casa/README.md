@@ -18,6 +18,9 @@ Passo a Passo:
 ##  Aplication Programming Interface
 *API are standards for making interfaces simple and practical. These are standards that make life easier for developers. They are safe because they help protect data from some software and are present in most of the apps we use, for example WhatsApp.*
 
+*Why is API used?
+APIs are needed to bring applications together in order to perform a designed function built around sharing data and executing pre-defined processes. They work as the middle man, allowing developers to build new programmatic interactions between the various applications people and businesses use on a daily basis.*
+
 - [x ] Leia com calma
 - [ x] Faça um pequeno resumo sobre o que entendeu do texto e o que ele te ensinou de novo
 - [x ] Faça algum tipo de [`Markdown`](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) no seu texto para explorar as funcionalidade de formatações possíveis
