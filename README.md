@@ -2,8 +2,7 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Conceitos básicos, Git, Github e versionamento de código
-
+# Conceitos básicos, Git, Github e versionamento de código 
 Turma Online 22 - B3  | Back-end | Semana 1 | 2023 | Professora [Sky Alarcón ☁](https://www.instagram.com/_skydoceu/?hl=pt-br)
 
 ### Instruções
