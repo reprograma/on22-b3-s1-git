@@ -2,11 +2,12 @@
 
 ## Exercício no GitBash
 
-- Vamos criar uma pasa e um arquivo utilizando o terminal
+- Vamos criar uma pasta e um arquivo utilizando o terminal
 
 Passo a Passo:
 
-* Abra o Git Bahs
+* Abra a pasta do repositório
+* Abra o Git Bash
 * Identifique o usuário
 * Confirme qual pasta que você está
 * Volte uma pasta
