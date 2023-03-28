@@ -16,9 +16,9 @@ Passo a Passo:
 
 > [Código limpo](https://programadorviking.com.br/codigo-limpo-o-que-e-porque-todo-programador-deve-utilizar/)
 
-- [ ] Leia com calma
-- [ ] Faça um pequeno resumo sobre o que entendeu do texto e o que ele te ensinou de novo
-- [ ] Faça algum tipo de [`Markdown`](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) no seu texto para explorar as funcionalidade de formatações possíveis
+- [ x ] Leia com calma
+- [ x ] Faça um pequeno resumo sobre o que entendeu do texto e o que ele te ensinou de novo
+- [ x ] Faça algum tipo de [`Markdown`](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) no seu texto para explorar as funcionalidade de formatações possíveis
 - [ ] Realize um `commit semântico`
 - [ ] Faça um `push` para seu repositório
 - [ ] Crie um `pull request (PR)` para o repositório principal
@@ -33,3 +33,6 @@ Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo cert
 - [ ] Commitei a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
 - [ ] Pushei os commits na minha branch (`git push origin nome-da-branch`)
 - [ ] Criei um Pull Request seguindo as orientaçoes que estao nesse [documento](https://github.com/mflilian/repo-example/blob/main/exercicios/para-casa/instrucoes-pull-request.md).
+
+
+
