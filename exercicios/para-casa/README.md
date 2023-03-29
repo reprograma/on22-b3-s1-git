@@ -19,8 +19,8 @@ Passo a Passo:
 - [x] Leia com calma
 - [x] Faça um pequeno resumo sobre o que entendeu do texto e o que ele te ensinou de novo
 - [x] Faça algum tipo de [`Markdown`](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) no seu texto para explorar as funcionalidade de formatações possíveis
-- [ ] Realize um `commit semântico`
-- [ ] Faça um `push` para seu repositório
+- [x] Realize um `commit semântico`
+- [x] Faça um `push` para seu repositório
 - [ ] Crie um `pull request (PR)` para o repositório principal
 ---
 
