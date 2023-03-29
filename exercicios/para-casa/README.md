@@ -35,8 +35,8 @@ Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo cert
 - [x] Criei um Pull Request seguindo as orientaçoes que estao nesse [documento](https://github.com/mflilian/repo-example/blob/main/exercicios/para-casa/instrucoes-pull-request.md).
 
 
-### RESUMO SOBRE A AULA DO SÁBADO - PROFESSORA SKY
-
+### RESUMO SOBRE A AULA DO SÁBADO - PROFESSORA SKY :closed_book: :pencil2: :house: 
+ 
 A aula dada pela **`Sky`** foi muito didática, ela tem bastante paciência, calma e segurança ao passar o assunto. 
 
 Começamos aprendendo o conceito básico de **programação**. E entendemos que como devs podemos escolher pelo caminho do **back-end**, **front-end**, **fullstack** ou **mobile**, passando pelo conceito básico de cada um deles. 
@@ -60,11 +60,15 @@ E por fim, a Sky falou sobre a importância de fazer o **README**, o que é o **
 Aula com muito conteúdo, muitas informações novas, mas tudo foi passado de maneira leve pela Sky. Chegamos 
 ao fim da aula bem cansadas, e no meu caso com dor de cabeça e aperreada, mas ainda mais interessada em aprender.
 
-**`Obrigada, Sky!`**   
+**`Obrigada, Sky!`**  :heart:
 
-### RESUMO DO TEXTO SOBRE **`CÓDIGO LIMPO`**
+### RESUMO DO TEXTO SOBRE **`CÓDIGO LIMPO`** :computer: :soap:
 
 **`Código limpo`** tem muito a ver com o que o próprio nome diz, mas não sendo de forma literal com relação ao limpo, quero dizer que, limpo no sentido de **clareza**. É um código escrito com fácil **compreensão**. Devendo ser uma técnica utilizada por todo programador, tão importante que é chamado de filosofia.
 
 Essa **filosofia** existe para dar qualidade ao código que o programador trabalha. Pela necessidade que se tem em voltar a um código antigo, é necessário que ele seja claro, para que ao voltar nele, o programador possa entender **rápido** e não perder tempo tentando entender um código que foi feito há muito tempo.
 Sendo assim, se você quiser ser ainda melhor como programador, o ideal é que você adote essa filosofia e crie códigos cada vez mais limpos, pois isso irá ajudar você e outros programadores.
+
+
+Ass.,
+Laís Ferreira :purple_heart:
