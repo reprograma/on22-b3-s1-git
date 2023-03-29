@@ -11,3 +11,5 @@
 :pushpin: Uma das definições mais importantes desta forma padronizada de commit é a atomic commit. São unidade que devem resolver um único erro.
 
 :ledger: Uma das vantagens do commit semântico é a realização de commits de tipos mais específicos. Ou seja, para cada correção, um único processo de commit para corrigir este erro. Esta definição na metodologia de commit semântico está em acordo com o Princípio da Responsabilidade Única, do SOLID.
+
+Aluna: Juliana da Silva - aluna de back-end da Reprograma - Turma 22
