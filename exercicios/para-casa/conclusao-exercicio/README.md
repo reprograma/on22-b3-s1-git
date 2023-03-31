@@ -1,0 +1,3 @@
+# ChatGPT para iniciante em programação
+
+Para o iniciantes em programação é **necessário prática para entender o código** e saber tudo o que está sendo escrito, pois é dessa forma que entendemos o que está sendo escrito e aprendemos a  [debuggar](https://kenzie.com.br/blog/debug/#:~:text=O%20que%20%C3%A9%20debug%3F,passo%20do%20processo%20de%20desenvolvimento.) os erros que aparecem, além de que quando um iniciante utiliza [ChatGPT](https://mundoconectado.com.br/artigos/v/31327/chat-gpt-o-que-e-como-funciona-como-usar) ele "terceiriza" seu aprendizado acabando não participando da construção do programa. Isso é super prejudicial para a formação de um desenvolvedor de software.
